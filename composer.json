@@ -1,0 +1,20 @@
+{
+	"name": "pauldro/base-utilities",
+    "type": "library",
+    "description": "Utility Classes",
+    "keywords": [],
+	"homepage": "https://github.com/pauldro/base-utilities",
+	"authors": [
+        {
+            "name": "Paul Gomez",
+            "email": "pauldro952@hotmail.com",
+            "homepage": "https://www.cptechinc.com",
+            "role": "Developer"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Pauldro\\Util\\": "src/"
+		}
+	}
+}
